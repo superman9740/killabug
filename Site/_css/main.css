@@ -1,0 +1,14 @@
+#photoShow div {
+	position: absolute;
+	z-index: 0;
+	left: -7px;
+	top: -1px;
+	width: 291px;
+	height: 403px;
+}
+#photoShow div.previous {
+    z-index: 1;
+}
+#photoShow div.current {
+    z-index: 2;
+}
